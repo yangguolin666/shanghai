@@ -7,7 +7,7 @@
 # 模板消息id
 "template_id": "UWW0OsPtq-tMRXY8QkhTEO9U-M0l1bCNheEcmqY8Ym0",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["oXDLL5_l65CEGAKtXFoxNBxTLwns","oXDLL59tIejiNIY0LExO-_MUn_Mg"],
+"user": ["oXDLL59tIejiNIY0LExO-_MUn_Mg"],
 
 # 信息配置
 # 和风天气apikey
@@ -18,7 +18,7 @@
 "region": "上海",
 
 # 生日1，在日期前加r代表农历生日
-"birthday1": {"name": "酷宝", "birthday": "1997-05-10"},
+"birthday1": {"name": "醋宝", "birthday": "1997-05-10"},
 # 生日2
 
 
